@@ -1,19 +1,19 @@
 {
     "__ASENAJSON__": true,
-    "LANGUAGE": "Türkcə",
-    "LANGCODE": "Tr",
-    "AUTHOR": "AsenaDev",
+    "LANGUAGE": "Sinhala",
+    "LANGCODE": "si",
+    "AUTHOR": "Sanju",
     "STRINGS": {
-        "_asena": {
-            "COMMAND": "Əmr",
-            "DESC": "Açığlama",
-            "EXAMPLE": "Nümunə",
-            "NOT_FOUND": "*Belə bir əmr tapa bilmədim*"
+        "_Rio wa bot": {
+            "COMMAND": "විධානය",
+            "DESC": "විස්තරය",
+            "EXAMPLE": "උදාහරණ",
+            "NOT_FOUND": "*මට මෙවැනි විදානයක් සොයාගත නොහැකි විය🤕"
         },
         "_plugin": {
-            "INSTALL_DESC": "Plugin quraşdırır.",
-            "NEED_URL": "Zəhmət olmasa bir URL daxil edin! Nümunə:",
-            "INVALID_URL": "```Xahiş edirəm etibarlı bir URL daxil edin!```",
+            "INSTALL_DESC": "බාහිර ප්ලගීන ස්ථාපනය කරන්න.",
+            "NEED_URL": "කරණාකර URL එකක් ඇතුලත් කරන්න! උදාහරණය:",
+            "INVALID_URL": "```කරුණා කර URL එකක් ඇතුලත් කරන්න!```",
             "INVALID_PLUGIN": "*❌ Plagininiz səhvdir!*\n*Xeta:*",
             "INSTALLED": "*✅ Plugin uğurla quraşdırıldı!*",
             "PLUGIN_DESC": "Qurduğunuz plaginləri göstərir.",
